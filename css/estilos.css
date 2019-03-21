@@ -1,0 +1,16 @@
+.linea {
+	background: black;
+}
+
+.parsley-required {
+	color: red;
+	font-size: 15px;
+	padding-top: 5px;
+	list-style: none;
+	margin-left: -35px;
+}
+
+#map { 
+	height: 98vh;
+	width: 100hw;
+}
